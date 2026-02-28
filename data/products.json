@@ -10,7 +10,7 @@
     "isFeatured": true,
     "images": [
       "images/product-iphone15pro.jpg",
-      "assets/images/product-iphone15pro-2.jpg"
+      "images/product-iphone15pro-2.jpg"
     ],
     "specs": {
       "Processor": "A17 Pro Chip",
