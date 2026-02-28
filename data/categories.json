@@ -1,0 +1,6 @@
+[
+  { "name": "All",         "icon": "grid"       },
+  { "name": "Phones",      "icon": "phone"      },
+  { "name": "Laptops",     "icon": "laptop"     },
+  { "name": "Accessories", "icon": "headphones" }
+]

@@ -1,0 +1,30 @@
+{
+  "siteName": "Prime Mobile Hub",
+  "siteShort": "PMH",
+  "tagline": "Pakistan's #1 Premium Tech Destination",
+  "heroTaglines": [
+    "Discover Premium Smartphones",
+    "Experience Next-Gen Technology",
+    "Authentic Devices, Best Prices",
+    "Your Trusted Tech Partner in Pakistan"
+  ],
+  "ctaButtons": [
+    { "text": "Shop Now",   "link": "#products",     "style": "primary"   },
+    { "text": "View Deals", "link": "#new-releases", "style": "secondary" }
+  ],
+  "contact": {
+    "whatsapp": "+923001234567",
+    "email": "info@primemobilehub.pk",
+    "address": "Main Boulevard, Gulberg III, Lahore, Pakistan"
+  },
+  "theme": {
+    "default": "light",
+    "toggle": true
+  },
+  "currencySymbol": "Rs.",
+  "social": {
+    "instagram": "#",
+    "facebook": "#",
+    "twitter": "#"
+  }
+}
