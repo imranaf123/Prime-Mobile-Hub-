@@ -1,7 +1,0 @@
-[
-  { "name": "Apple",   "icon": "/icons/apple.svg",   "color": "#555555" },
-  { "name": "Samsung", "icon": "/icons/samsung.svg", "color": "#1428A0" },
-  { "name": "Google",  "icon": "/icons/google.svg",  "color": "#4285F4" },
-  { "name": "Xiaomi",  "icon": "icons/xiaomi.svg",  "color": "#FF6900" },
-  { "name": "OPPO",    "icon": "icons/oppo.svg",    "color": "#1D8348" }
-]
